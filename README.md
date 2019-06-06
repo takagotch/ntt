@@ -3,10 +3,11 @@
 #### NTT comunications
 https://github.com/nttcom/
 
+#### NTT data
+https://github.com/NTTDATA
+
 #### docomo
 https://github.com/takagotch/docomo
-
-https://github.com/nttcom
 
 https://github.com/ossc-db
 
